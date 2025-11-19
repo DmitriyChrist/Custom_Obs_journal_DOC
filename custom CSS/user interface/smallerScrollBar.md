@@ -13,7 +13,7 @@ Reduces the size of the page scroll indicator.
 
 
 cover::
-![smaller-scrollbar-1](custom%20CSS/user%20interface/attachments/smaller-scrollbar-1.png)
+![smaller-scrollbar-1](attachments/smaller-scrollbar-1.png)
 
 ## Code
 
