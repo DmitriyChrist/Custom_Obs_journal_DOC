@@ -4,8 +4,8 @@ This code allows highlighting any text in settings, for example, to highlight pl
 
 ***
 
-- author: 
-- link:
+- author: some in web
+- link: 
 
 ***
 

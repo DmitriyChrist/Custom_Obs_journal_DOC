@@ -1,5 +1,10 @@
-Important: Primarily, the styles were selected, modified, or developed for mobile phones.
+## Important
+Primarily, the styles were selected, modified, or developed for mobile phones.
 When used on a computer, the result may differ from what is expected.
+
+## Recommendation
+Combine different snippets into one logical document. This allows for better code maintenance, is useful for debugging, and convenient for future expansion. 
+For very large style systems, consider logically dividing them into thematic blocks (e.g., base, interface, theme) to avoid cumbersome "spaghetti code" files.
 
 ## Table of content
 
@@ -7,12 +12,18 @@ When used on a computer, the result may differ from what is expected.
 
 ### User interface
 
+#### Main config
+
 - [background_all](user%20interface/background_all.md)
 - [anyClickableText_inSetting](user%20interface/anyClickableText_inSetting.md)
 - [smallerScrollBar](user%20interface/smallerScrollBar.md)
+- [maxiWorkspace](user%20interface/maxiWorkspace.md)
+- [folderLine](user%20interface/folderLine.md)
+
+
 
  Статус-бар
-File explorer
+ - [File Explorer](notes/File%20Explorer.md)
 Палитра команд
 Стилизация кнопок и иконок приложения
 Стилизация основных тем

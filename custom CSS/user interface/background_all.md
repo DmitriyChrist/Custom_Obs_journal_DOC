@@ -4,7 +4,7 @@ This background is slightly softer for the default main themes.
 ***
 
 - author: DOChrist
-- link: https://github.com/DmitriyChrist
+- link: https://github.com/DmitriyChrist/Custom_Obs_journal_DOC
 
 ***
 
