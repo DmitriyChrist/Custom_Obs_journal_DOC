@@ -26,11 +26,13 @@ For very large style systems, consider logically dividing them into thematic blo
 ##### mainNavBars
 
 - [intro_mainNavBars](notes/intro_mainNavBars.md)
-
 - [headerNavBarVertical](user%20interface/headerNavBarVertical.md)
+- [bottomNavBar](user%20interface/bottomNavBar.md)
+- [statusBarAsMain](user%20interface/statusBarAsMain.md)
+
 
 in work:
-[ribbonInLeftSaidBar](user%20interface/ribbonInLeftSaidBar.md)
+- [ribbonInLeftSaidBar](user%20interface/ribbonInLeftSaidBar.md)
 
 
 

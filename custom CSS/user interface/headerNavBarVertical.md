@@ -1,18 +1,13 @@
 ## Description
 
-
-
+This snippet vertically rotates the headerNavBar.
+It removes the Reading-mode and Bookmark icons along with the file name area.
+It also rotates the Commander plugin icons vertically.
 ***
 - author: DOChist
 - link: https://github.com/DmitriyChrist/Custom_Obs_journal_DOC
 ***
-
-
-## How to use
-
-```
-
-```
+![vertHeaderNavBar](attachments/vertHeaderNavBar.jpg)
 
 ## Code
 
@@ -22,7 +17,7 @@
   display: none !important;
 }
 
-.view-header {
+.is-mobile .view-header {
   display: flex;
   position: fixed;
   right: 10vw;
