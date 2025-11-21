@@ -14,7 +14,7 @@ As an option, reassign it to something else.
 - link: https://github.com/DmitriyChrist/Custom_Obs_journal_DOC
 ***
 
-![](attachments/ribbonInLeftSaidBar.jpg)
+![](attachments/ribbonInLeftorRightSaidBar.jpg)
 
 
 

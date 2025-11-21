@@ -2,6 +2,7 @@
 
 - [Intro](#intro)
 - [Custom via CSS](custom%20CSS/Custom%20via%20CSS.md)
+	- [intro_mainNavBars](custom%20CSS/notes/intro_mainNavBars.md)
 - [Custom via JavaScript](custom%20JS/Custom%20via%20JavaScript.md)
 - [Guides and Reviews](guides/Guides%20and%20Reviews.md)
 - Resources 
