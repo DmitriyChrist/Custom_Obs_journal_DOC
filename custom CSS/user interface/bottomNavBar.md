@@ -1,7 +1,10 @@
 ## Description
 We hide the bottomNavBar but do not remove it from the DOM tree.
+
 Note:
+
 Currently, the bottomNavBar hides when the virtual keyboard appears. Interestingly, if you override its position using CSS, it still disappears when the keyboard shows up.
+
 Later, I need to add some old examples, but with this behavior, it’s more of an annoyance in daily use.
 
 ***
