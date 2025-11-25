@@ -14,18 +14,20 @@ For very large style systems, consider logically dividing them into thematic blo
 
 #### Main config
 
+##### little improvement
 - [background_all](user%20interface/background_all.md)
 - [anyClickableText_inSetting](user%20interface/anyClickableText_inSetting.md)
-- [smallerScrollBar](user%20interface/smallerScrollBar.md)
 - [maxiWorkspace](user%20interface/maxiWorkspace.md)
-
-
-- [modifiedList_biggerMark](custom%20CSS/text%20editor/modifiedList_biggerMark.md)
-
 - [focusSourceView](user%20interface/focusSourceView.md)
 - [hiddenCodeBlocks](user%20interface/hiddenCodeBlocks.md) - interesting, but with a bug
-- [folderLine](user%20interface/folderLine.md)
+***
+- [smallerScrollBar](user%20interface/smallerScrollBar.md)
+- [modifiedList_biggerMark](custom%20CSS/text%20editor/modifiedList_biggerMark.md)
+***
+- [showTabOverview](user%20interface/showTabOverview.md)
 
+ - [File Explorer](user%20interface/fileExplorer/File%20Explorer.md) - group
+	 - [folderLine](user%20interface/folderLine.md)
 
 ##### mainNavBars
 
@@ -37,12 +39,12 @@ For very large style systems, consider logically dividing them into thematic blo
 
 in work:
 - [ribbonInLeftSaidBar](user%20interface/ribbonInLeftSaidBar.md)
+***
 
+#### Text editor 
 
-- [showTabOverview](user%20interface/showTabOverview.md) - group Top
+[headerInNote](text%20editor/headerInNote/headerInNote.md) - group
 
-
- - [File Explorer](notes/File%20Explorer.md) - group
 
 
 

@@ -8,7 +8,6 @@ We have the following:
 
 Based on this, the following customization possibilities can be identified:
 - [Customizing TabOverview Tabs Display](tabOverview/Customizing%20TabOverview%20Tabs.md)
--  [Customizing Last Active Tab Appearance](tabOverview/Customizing%20Last%20Active%20Tab%20Appearance.md)
 - [Customizing Tab Navigation in TabOverview](../../custom%20JS/articles/Customizing%20Tab%20Navigation%20in%20TabOverview.md)
 
 But first, I suggest adding a simple CSS snippet that will add visual separation between tab groups:

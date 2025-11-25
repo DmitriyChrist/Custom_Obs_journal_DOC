@@ -13,8 +13,7 @@ This code adds horizontal divider lines between tab groups in TabOverview
 
 ```css
 .mobile-tab-group-container {
-    border-bottom: 2px solid orange;
-    padding-bottom: 1em;
+    border-top: 2px solid orange;
 }
 ```
 
