@@ -7,8 +7,7 @@ The original version of the author also hid HTML/CSS inline, but I consider this
 - author: efrec
 - link: https://forum.obsidian.md/t/getting-comfortable-with-obsidian-css/133/73
 ***
-
-![focusSourceView](attachments/focusSourceView.jpg)
+![](https://i.imgur.com/5WEHVCO.jpeg)
 
 ## Code
 

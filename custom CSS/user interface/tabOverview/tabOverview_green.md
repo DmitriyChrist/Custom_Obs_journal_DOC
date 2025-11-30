@@ -5,8 +5,9 @@ Mobile tab interface with dark backgrounds, teal borders, and glowing shadows on
 - author: DOChrist
 - link: https://github.com/DmitriyChrist/Custom_Obs_journal_DOC
 ***
-![tabOver_green](attachments/tabOver_green.jpg)
 
+
+![](https://i.imgur.com/nDwZwr8.jpeg)
 
 ## Code
 

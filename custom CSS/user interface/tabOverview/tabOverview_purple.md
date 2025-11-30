@@ -5,7 +5,7 @@ Clean mobile tab navigation with gradient backgrounds and left border accent.
 - link: https://github.com/DmitriyChrist/Custom_Obs_journal_DOC
 ***
 
-![tabOver_purple](attachments/tabOver_purple.jpg)
+![](https://i.imgur.com/ljGm1YV.jpeg)
 
 ## Code
 

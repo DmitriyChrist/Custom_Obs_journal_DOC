@@ -10,16 +10,14 @@ This section contains examples of working with four built-in Obsidian navigation
 
 Two panels are available by default:
 - Top navigation bar (headerNavBar)
-![defaultHeaderNavBar](../user%20interface/attachments/defaultHeaderNavBar.jpg)
+![](https://i.imgur.com/rIfJLJw.jpeg)
 - Bottom navigation bar (bottomNavBar)
-![defaultBottomNavBar](../user%20interface/attachments/defaultBottomNavBar.jpg)
-
+![](https://i.imgur.com/NOKGypX.jpeg)
 Two panels are hidden in the mobile version but can be activated via CSS[^3]:
 - Status bar (status-bar)
-![hidedStatusBar](../user%20interface/attachments/hidedStatusBar.jpg)
+![](https://i.imgur.com/IiEzvxU.jpeg)
 - Ribbon panel in the left sidebar
-![](../user%20interface/attachments/ribbonInLeftorRightSaidBar.jpg)
-
+![](https://i.imgur.com/LRKuxv8.jpeg)
 
 **Why Customize the Interface?**
 
@@ -30,7 +28,7 @@ On mobile devices, we interact with the interface through a touchscreen in close
 
 I find it convenient when all buttons are located on the right side and positioned just above the virtual keyboard. It's important that elements don't move or disappear when switching between screens. Therefore, I use this layout:
 
-![](../user%20interface/attachments/myMobileWorkSpace.jpg)
+![](https://i.imgur.com/prwTPnL.jpeg)
 - In the upper right corner — headerNavBar
 - In the middle right — status-bar
 - Using the Commander plugin to add/remove needed commands.

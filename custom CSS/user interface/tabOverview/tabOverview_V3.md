@@ -9,8 +9,7 @@ Wide tab preview tiles:
 - link: https://github.com/DmitriyChrist/Custom_Obs_journal_DOC
 ***
 
-![tabWideOverview_v3](attachments/tabWideOverview_v3.jpg)
-
+![](https://i.imgur.com/szn46k3.jpeg)
 
 ## Code
 

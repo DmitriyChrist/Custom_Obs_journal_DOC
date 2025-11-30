@@ -6,8 +6,8 @@ This code adds horizontal divider lines between tab groups in TabOverview
 - author: DOChrist
 - link: https://github.com/DmitriyChrist/Custom_Obs_journal_DOC
 ***
+![](https://i.imgur.com/CqLlNeB.jpeg)
 
-![dividerLineGroup](attachments/dividerLineGroup.jpg)
 
 ## Code
 

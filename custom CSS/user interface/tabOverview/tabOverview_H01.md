@@ -6,10 +6,8 @@ This CSS snippet defines a modern, dark-themed mobile tab interface with smooth 
 - author: DOChrist
 - link: https://github.com/DmitriyChrist/Custom_Obs_journal_DOC
 ***
+![](https://i.imgur.com/iQijYtC.gif)
 
-
-
-![tabOver_H01](attachments/tabOver_H01.gif)
 
 ## Code
 

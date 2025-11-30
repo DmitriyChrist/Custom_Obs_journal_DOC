@@ -9,11 +9,12 @@ By default, tabs remain fixed and selection is performed by tapping the desired 
 # Single-step navigation
 
 - [singleStepNavigation](../startup/singleStepNavigation.md)
-![tabOver_H01](../../custom%20CSS/user%20interface/tabOverview/attachments/tabOver_H01_v2.gif)
+![](https://i.imgur.com/LMEqhuU.gif)
 
 
 
 # Center-based navigation
 
 [centerBasedNavigation](../startup/centerBasedNavigation.md)
-![tabOver_H01](../../custom%20CSS/user%20interface/tabOverview/attachments/tabOver_H01.gif)
+
+![](https://i.imgur.com/iQijYtC.gif)

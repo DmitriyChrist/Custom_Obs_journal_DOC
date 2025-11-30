@@ -8,7 +8,7 @@ It also adjusts line number indentation from the screen edge and text, ensuring 
 - link: https://github.com/DmitriyChrist/Custom_Obs_journal_DOC
 
 ***
-![](attachments/maxiWorkspace.jpg)
+![](https://i.imgur.com/fckoJAt.jpeg)
 
 ## Code
 

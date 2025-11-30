@@ -8,25 +8,25 @@ However, its main advantage is that it ensures consistent marker sizes and text 
 - author: DOChrist
 - link: https://github.com/DmitriyChrist/Custom_Obs_journal_DOC
 ***
-![modifListUlOl](attachments/modifListUlOl.jpg)
-
-
-
+![](https://i.imgur.com/xnaMmlB.jpeg)
 
 ## Code
 
 ```css
 body {
     --list-bullet-end-padding: 0.2rem;
+    --list-marker-color: orange;
 }
 
 /*Appearance of the bulleted list marker in Reading and Live modes*/
+
 .markdown-rendered .list-bullet:after,
 .markdown-source-view.mod-cm6.is-live-preview  .list-bullet:after {
     width: 8px;
     height: 8px;
     opacity: 0.8;
     border-radius: 50%;
+    color: var(--list-marker-color);
 }
 
 /*Appearance of the numbered list marker in Reading/Live/Source*/
@@ -37,6 +37,7 @@ body {
 .markdown-source-view.mod-cm6 ol > li::marker {
     font-size: 1.1em;
     font-weight: bold;
+    color: var(--list-marker-color);
 }
 
 /*Appearance of the vertical line in Reading/Live/Source*/

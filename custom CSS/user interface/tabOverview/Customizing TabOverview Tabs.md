@@ -12,19 +12,19 @@ However, when switching to horizontal tab layout, several issues arise:
 # Modified default view
 
 - [tabOverview_purple](tabOverview_purple.md)
-![tabOver_purple](attachments/tabOver_purple.jpg)
+![](https://i.imgur.com/ljGm1YV.jpeg)
 ***
 - [tabOverview_green](tabOverview_green.md)
-![tabOver_green](attachments/tabOver_green.jpg)
+![](https://i.imgur.com/nDwZwr8.jpeg)
 ***
 
 # Vertical tab layout 
 
 - [tabAsList](tabAsList.md)
-![tabsAsList](attachments/tabsAsList.jpg)
+![](https://i.imgur.com/d4McmxN.jpeg)
 ***
 - [tabOverview_V3](tabOverview_V3.md)
-![tabWideOverview_v3](attachments/tabWideOverview_v3.jpg)
+![](https://i.imgur.com/szn46k3.jpeg)
 ***
 
 
@@ -33,10 +33,12 @@ However, when switching to horizontal tab layout, several issues arise:
 - [tabOverview_H01](tabOverview_H01.md)
 - By default, the highlight will be static only on the last opened tab. Dynamic tab highlight behavior is implemented using [Customizing Tab Navigation in TabOverview](../../../custom%20JS/articles/Customizing%20Tab%20Navigation%20in%20TabOverview.md) 
 
-![tabOver_H01](attachments/tabOver_H01_v2.gif)
+![](https://i.imgur.com/LMEqhuU.gif)
+
+
 ***
 - [tabOverview_H02_neo](tabOverview_H02_neo.md)
-![tabOver_neo](attachments/tabOver_neo.jpg)
+![](https://i.imgur.com/YHJorEw.jpeg)
 ***
 - [tabOverview_H03_brutal](tabOverview_H03_brutal.md)
-![tabOver_brut](attachments/tabOver_brut.jpg)
+![](https://i.imgur.com/sQq4jNa.jpeg)

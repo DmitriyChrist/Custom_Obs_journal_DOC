@@ -8,8 +8,7 @@ A pretty interesting code that hides code blocks in both Preview and Source mode
 - link: https://forum.obsidian.md/t/getting-comfortable-with-obsidian-css/133/72
 
 ***
-![hiddenCodeBlock](attachments/hiddenCodeBlock.jpg)
-
+![](https://i.imgur.com/8OAJPv9.jpeg)
 
 ## Code
 

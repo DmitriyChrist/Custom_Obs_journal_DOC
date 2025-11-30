@@ -5,7 +5,7 @@ A futuristic, cyberpunk-themed mobile tab navigation with neon aesthetics and gl
 - author: DOChrist
 - link: https://github.com/DmitriyChrist/Custom_Obs_journal_DOC
 ***
-![tabOver_neo](attachments/tabOver_neo.jpg)
+![](https://i.imgur.com/YHJorEw.jpeg)
 
 ## Code
 

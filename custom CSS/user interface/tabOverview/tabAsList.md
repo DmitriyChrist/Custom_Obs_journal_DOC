@@ -10,8 +10,8 @@ CSS snippet that redesigns mobile tab overview into a vertical list format. Feat
 - author: DOChrist
 - link: https://github.com/DmitriyChrist/Custom_Obs_journal_DOC
 ***
-![tabsAsList](attachments/tabsAsList.jpg)
 
+![](https://i.imgur.com/d4McmxN.jpeg)
 ## Code
 
 ```css

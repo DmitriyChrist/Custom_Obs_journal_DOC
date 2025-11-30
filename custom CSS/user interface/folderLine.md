@@ -7,7 +7,7 @@ Changes the default visual indicators for nested folder hierarchy levels
 - link: https://github.com/DmitriyChrist/Custom_Obs_journal_DOC
 - initial idea: https://forum.obsidian.md/t/add-rule-lines-to-folder-tree/19356
 ***
-![](attachments/folderLine.jpg)
+![](https://i.imgur.com/l17wV2z.jpeg)
 ## Code
 
 ```css

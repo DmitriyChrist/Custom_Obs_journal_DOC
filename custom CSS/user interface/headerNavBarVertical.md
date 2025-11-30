@@ -7,7 +7,8 @@ It also rotates the Commander plugin icons vertically.
 - author: DOChist
 - link: https://github.com/DmitriyChrist/Custom_Obs_journal_DOC
 ***
-![vertHeaderNavBar](attachments/vertHeaderNavBar.jpg)
+
+![](https://i.imgur.com/8uw4BlQ.jpeg)
 
 ## Code
 

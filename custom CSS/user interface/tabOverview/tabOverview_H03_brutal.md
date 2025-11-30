@@ -6,8 +6,7 @@ Brutalist mobile tab layout with aggressive black-and-red visuals inspired by pr
 - author: DOChrist
 - link: https://github.com/DmitriyChrist/Custom_Obs_journal_DOC
 ***
-
-![tabOver_brut](attachments/tabOver_brut.jpg)
+![](https://i.imgur.com/sQq4jNa.jpeg)
 
 ## Code
 
