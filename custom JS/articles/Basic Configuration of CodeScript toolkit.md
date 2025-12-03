@@ -41,7 +41,6 @@ await navSw(app);
 }, 100);
 ```
 
-This repository serves as both a thematic collection and my checkpoint. Therefore, the main part of the scripts I work with are located in the root `.script` folder.
 
 For more detailed information, I recommend checking:
 - [CodeScript Toolkit home page](https://github.com/mnaoumov/obsidian-codescript-toolkit)

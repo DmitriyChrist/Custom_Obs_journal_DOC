@@ -1,3 +1,4 @@
+[Back to => home](../README.md)
 # Important
 Primarily, the styles were selected, modified, or developed for mobile phones.
 When used on a computer, the result may differ from what is expected.
@@ -25,24 +26,21 @@ For very large style systems, consider logically dividing them into thematic blo
 - [hiddenCodeBlocks](user%20interface/hiddenCodeBlocks.md) - interesting, but with a bug
 ***
 - [showTabOverview](user%20interface/showTabOverview.md)
- - [File Explorer](user%20interface/fileExplorer/File%20Explorer.md) - group
+ - [File Explorer](user%20interface/fileExplorer/File%20Explorer.md) - wip group
 	 - [folderLine](user%20interface/folderLine.md)
 
 #### mainNavBars
 
 - [intro_mainNavBars](notes/intro_mainNavBars.md)
 - [headerNavBarVertical](user%20interface/headerNavBarVertical.md)
-- [bottomNavBar](user%20interface/bottomNavBar.md)
+- [bottom Nav Bar](user%20interface/bottomNavBar.md)
 	- todo: We need to make a guide on how to remove icons there via css
-- [statusBarAsMain](user%20interface/statusBarAsMain.md)
+- [status Bar as Main](user%20interface/statusBarAsMain.md)
 	- [hoverBars](user%20interface/hoverBars.md)
 
 ***
-- [Разобраться с плавующими кнопками](custom%20CSS/user%20interface/Разобраться%20с%20плавующими%20кнопками.md)
-- [navBar float buttoms from Cupertino](custom%20CSS/user%20interface/navBar%20float%20buttoms%20from%20Cupertino.md)
-***
 in work:
-- [ribbonInLeftSaidBar](user%20interface/ribbonInLeftSaidBar.md)
+- [Ribbon In Left Saidbar](user%20interface/ribbonInLeftSaidBar.md)
 ***
 
 ### Text editor 
@@ -86,15 +84,8 @@ in work:
 		- [not+_warmCallout](text%20editor/not+_warmCallout.md)
 	- [modified_Folder structure callout](text%20editor/modified_Folder%20structure%20callout.md)
 - wip: [my_miniStyleCallout](my_miniStyleCallout.md)
-
-
-
-
-
 ***
 - [Resources_CSS](notes/Resources_CSS.md)
-
-
 ***
 
 #### See also:

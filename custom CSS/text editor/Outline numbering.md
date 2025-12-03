@@ -1,6 +1,6 @@
 
-В режиме просмотра обозначает вложенность через нумерацию с точкой
-Нужен нумероввнный список
+For numbered lists with nesting (dots for hierarchy) in viewing mode
+
 # Outline numbering
 
 ---

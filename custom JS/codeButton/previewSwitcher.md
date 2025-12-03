@@ -1,11 +1,10 @@
 ## Description
 
-Switches a note with a code-button code block to preview mode
+This script provides a function to programmatically switch the active note to preview (reading) mode in Obsidian
 
 ***
 - author: DOChrist
 - link: https://github.com/DmitriyChrist/Custom_Obs_journal_DOC
-- initial idea:
 ***
 
 ## Instructions

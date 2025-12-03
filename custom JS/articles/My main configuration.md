@@ -4,9 +4,9 @@ But I'll quickly remind you how everything is set up and arranged:
 
 ![](https://i.imgur.com/jKH5Fd3.jpeg)
 
-
-- 43_Obsidian_Dev/CodeScript/1_startUp/headerNew.md
-- 43_Obsidian_Dev/CodeScript/1_startUp/invVim.md
-	- 43_Obsidian_Dev/CodeScript/1_startUp/toggleRibbon.md
-- 43_Obsidian_Dev/CodeScript/1_startUp/navStatusBar.md
-- 43_Obsidian_Dev/CodeScript/1_startUp/headerNew.md
+### This behavior was implemented through the following scripts:
+- [Mobile Quick Action Fix](../startup/modifHeaderNavBar.md)
+- [Dynamic Backlinks & Vim button](../startup/indicatorVim.md)
+	- [Programmatic Ribbon Toggle](../startup/toggleRibbon.md)
+- [Mobile Gesture Navigation](../startup/bottomNavSwipe.md)
+- [Mobile Status Bar Tab History Navigation](../startup/navStatusBar.md)
