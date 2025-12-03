@@ -18,3 +18,7 @@ I sincerely hope that the materials presented here will not leave you indifferen
 Almost all of the content was written with the help of AI. I plan to use this small project-collection as an educational platform.
 
 Some examples are collected from various sources, including existing GitHub repositories.
+
+
+# Support
+<a href="https://boosty.to/dochrist_152/donate" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217"></a>
