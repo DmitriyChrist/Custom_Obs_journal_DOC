@@ -1,6 +1,6 @@
 ## Description
 
-I don't remember the source of this code, but on the phone, it's simply a must-have.
+Enhances Obsidian header usability by making the entire Header area clickable for folding/unfolding.
 
 - Pros: convenient for collapsing and expanding headings
 - Cons: it makes links and footnotes in the heading unclickable.

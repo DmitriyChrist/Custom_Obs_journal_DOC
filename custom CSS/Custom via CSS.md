@@ -9,7 +9,7 @@ For very large style systems, consider logically dividing them into thematic blo
 
 # Table of content
 
-- [intro_CSS](custom%20CSS/notes/intro_CSS.md)
+- [intro CSS](custom%20CSS/notes/intro_CSS.md)
 - [CSS Values and Units Module](https://drafts.csswg.org/css-values)
 
 ## User interface
@@ -17,26 +17,26 @@ For very large style systems, consider logically dividing them into thematic blo
 ### Main config
 
 #### little improvement
-- [background_all](user%20interface/background_all.md)
-- [anyClickableText_inSetting](user%20interface/anyClickableText_inSetting.md)
-- [maxiWorkspace](user%20interface/maxiWorkspace.md)
-- [smallerScrollBar](user%20interface/smallerScrollBar.md)
+- [background all](user%20interface/background_all.md)
+- [any Clickable Text in Setting](user%20interface/anyClickableText_inSetting.md)
+- [maxi Workspace on mobile](user%20interface/maxiWorkspace.md)
+- [smaller Scroll-Bar](user%20interface/smallerScrollBar.md)
 ***
-- [focusSourceView](user%20interface/focusSourceView.md)
-- [hiddenCodeBlocks](user%20interface/hiddenCodeBlocks.md) - interesting, but with a bug
+- [focus Source View](user%20interface/focusSourceView.md)
+- [hidden Code Blocks](user%20interface/hiddenCodeBlocks.md) - interesting, but with a bug
 ***
-- [showTabOverview](user%20interface/showTabOverview.md)
+- [show Tab Overview](user%20interface/showTabOverview.md)
  - [File Explorer](user%20interface/fileExplorer/File%20Explorer.md) - wip group
-	 - [folderLine](user%20interface/folderLine.md)
+	 - [folder Line](user%20interface/folderLine.md)
 
 #### mainNavBars
 
-- [intro_mainNavBars](notes/intro_mainNavBars.md)
-- [headerNavBarVertical](user%20interface/headerNavBarVertical.md)
+- [intro main NavBars](notes/intro_mainNavBars.md)
+- [header NavBarvVertical](user%20interface/headerNavBarVertical.md)
 - [bottom Nav Bar](user%20interface/bottomNavBar.md)
 	- [hide icon of bottom navar](user%20interface/hide%20icon%20of%20bottom%20navar.md)
 - [status Bar as Main](user%20interface/statusBarAsMain.md)
-	- [hoverBars](user%20interface/hoverBars.md)
+	- [hover Bars](user%20interface/hoverBars.md)
 
 ***
 in work:
@@ -45,23 +45,23 @@ in work:
 
 ### Text editor 
 #### Main config
-- [relativeLine_css](text%20editor/relativeLine_css.md)
+- [relative Line_css](text%20editor/relativeLine_css.md)
 - [Centering Embeds and table in Obsidian](text%20editor/Centering%20Embeds%20and%20table%20in%20Obsidian.md)
 	- or [Aligh image](https://forum.obsidian.md/t/align-image)
 		- for more: [Image Adjustments](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustme)
 - [highlighting and underlining](text%20editor/highlighting%20and%20underlining.md)
-- [codeBlocks](text%20editor/codeBlocks.md)
+- [code-Blocks](text%20editor/codeBlocks.md)
 
 
 #### Title
 - [Underlining of the file header and color highlighting](text%20editor/Underlining%20of%20the%20file%20header%20and%20color%20highlighting.md)
-- [headerInNote](text%20editor/headerInNote/headerInNote.md) - group
-	- [clickableAllTitle](text%20editor/clickableAllTitle.md)
+- [header In Note](text%20editor/headerInNote/headerInNote.md) - group
+	- [Expandable Header Click Area](text%20editor/clickableAllTitle.md)
 	
 
 #### Text
 
-- [paragraph_indentation](text%20editor/paragraph_indentation.md)
+- [paragraph indentation](text%20editor/paragraph_indentation.md)
 - [Format keyboard keys text](text%20editor/Format%20keyboard%20keys%20text.md) - in work
 - [Horizontal ruler line](https://forum.obsidian.md/t/creating-fancy-horizontal-rule-lines/63700)
 	- [Extra hr-line setting](https://github.com/xp-dv/obsidian-extra-extras)
